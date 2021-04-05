@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">인텐트 테스트
+    </string>
+    <string name="popupText">
+        안녕하세요 팝업 메뉴입니다. 반가워요. 잘 지내봐요. \n
+        아래의 체크 박스 중 하나를 선택해 주세요
+    </string>
+</resources>
